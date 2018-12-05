@@ -1,4 +1,5 @@
-# Relay-Head-to-Head
+# Relay Head to Head  
+**Comparison of three different relay types: electromechanical, SSR and latching**  
 
 This video is sponsored by https://www.pcbway.com  
 *We invite you to join the 2nd PCB design contest to win highest $1000.00 cash reward.   
@@ -7,8 +8,6 @@ https://www.pcbway.com/project/PCB_DESIGN_CONTEST.aspx*
 
 #See the accompanying video #127 at https://youtube.com/ralphbacon  
 (Direct link to video: https://youtu.be/aZdq5WPJyog)
-
-**Comparison of three different relay types: electromechanical, SSR and latching**  
 
 All relays provide some form of switch. Relays come in various shapes, sizes and purposes.  They are operated electrically, electronically or even manually. In our Arduinite world they are used to enable higher voltages and/or currents to be switched by something that could not handle that requirement. So your Arduino, PIC or Raspberry Pi can now switch high current household voltages without a problem.  
 
